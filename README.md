@@ -1,5 +1,9 @@
 # TICS575 - Técnicas para Big Data
 
+## Notas del curso
+
+Las notas del curso las vas a poder encontrar [en esta planilla](https://docs.google.com/spreadsheets/d/1bs6j6bsnyoPxRKE4EVFSgGX8FbwoeXUeyWNBsnNxNjI/edit?usp=sharing).
+
 ## Descripción del curso
 
 Durante el curso, el alumno aprenderá diversas técnicas utilizadas en la actualidad para manejar grandes cantidades de datos. Estas técnicas serán abordadas desde distintas perspectivas.
