@@ -12,6 +12,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 06 - TF-IDF y APIs](https://youtu.be/m6RAMCh-LA8)
 - [Clase 07 - Web Semántica](https://youtu.be/2gv83qjSIIo)
 - [Clase 08 - Neo4J](https://youtu.be/Z2rxo7hnYjA)
+- [Clase 09 - Graph Analytics](https://youtu.be/kPNRKG7QYgM)
 
 ## Material Adicional
 
