@@ -14,6 +14,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 08 - Neo4J](https://youtu.be/Z2rxo7hnYjA)
 - [Clase 09 - Graph Analytics](https://youtu.be/kPNRKG7QYgM)
 - [Clase 10 - Bases de Datos Distribuidas](https://youtu.be/8v_Q-rLmkpc)
+- [Clase 11 - Scala y Apache Spark](https://youtu.be/A3ATPiSKL70)
 
 ## Material Adicional
 
