@@ -1,0 +1,27 @@
+{% extends 'layout.html' %}
+
+{% block title %} Ejemplo API {% endblock %}
+
+{% block content %}
+
+    <h1>Bienvenido a Ejemplo API</h1>
+
+    <hr>
+
+    <form method="POST" action="">
+
+            <fieldset class="form-container">
+                <div class="mb-3">
+                    <label for="search-input" class="form-label">Ingrese el valor de búsqueda:</label> 
+                    <input class="form-control" id="search-input" name="search-input" placeholder="Search Input" required>
+                </div>
+            </fieldset>
+
+            <div class="form-actions">
+                <button type="submit" class="btn btn-dark" >Buscar</button>
+            </div>
+    </form>
+
+{% endblock %}
+
+
