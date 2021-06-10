@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+
+{% block title %} Ejemplo API {% endblock %}
+
+{% block content %}
+
+    <h1>Resultados</h1>
+
+    <hr>
+
+    <h4>Buscando: {{ search_input }} en la base de datos</h4>
+
+    {% if data %}
+        <div class="home-container">
+            {% for data_row in data %}
+            <div class="card mt-3">
+                <div class="card-body">
+                  <h5 class="card-title t-justify">{{ data_row.title }}</h5>
+                  <p class="card-text t-justify">{{ data_row.content }}</p>
+                </div>
+              </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h5>Sin resultados</h5>
+    {% endif %}
+
+{% endblock %}
