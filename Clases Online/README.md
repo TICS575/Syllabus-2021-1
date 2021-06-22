@@ -16,6 +16,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 10 - Bases de Datos Distribuidas](https://youtu.be/8v_Q-rLmkpc)
 - [Clase 11 - Scala y Apache Spark](https://youtu.be/A3ATPiSKL70)
 - [Clase 12 - Pregel y GraphX](https://youtu.be/xeAmzp_X2jo)
+- [Clase 13 - Explicación PageRank y Pregel](https://youtu.be/T0RjXkhdAqs)
 
 ## Material Adicional
 
